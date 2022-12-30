@@ -1,4 +1,4 @@
 # frontproject
 
 ## MBTI TEST
-✅ url: https://yoo-ha-young.github.io/frontproject/
+✅ url: https://sprightly-toffee-c0d676.netlify.app/
