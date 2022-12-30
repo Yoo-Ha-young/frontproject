@@ -1,6 +1,6 @@
 # frontproject
 
-## MBTI TEST
+## MBTI TEST - My Job
 ✅ url: https://sprightly-toffee-c0d676.netlify.app/
 
 ### 메인페이지
